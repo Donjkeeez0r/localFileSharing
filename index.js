@@ -1,4 +1,3 @@
-// Lesson 12
 const path = require('node:path');
 const http = require('node:http');
 const fs = require('node:fs/promises');
